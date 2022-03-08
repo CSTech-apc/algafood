@@ -1,0 +1,1 @@
+ao iniciar o teste "AdicionarCozinhaMain" o id fica null - status - resolvido.
